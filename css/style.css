@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(242, 242, 242);
+    font-family: 'Times New Roman', Times, serif; 
+}
+h1{
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    min-width: 100%;   
+}
+
+.grid{
+    width: 23%;
+    float: left;
+    background-color: white;
+    box-sizing: border-box;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 15px;
+    
+
+}
+.description{
+    color:silver;
+    
+}
+.text{
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
