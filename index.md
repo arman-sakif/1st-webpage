@@ -16,34 +16,22 @@
             <div class="grid">
                 <img src="images/1.jpg" >
                 <div class="text">
-                    <div class="name">
                         The Mind
-                    </div> 
-                    <div class="description">
-                        Photoshop,Print Design
-                    </div>
+                    <div class="description">Photoshop,Print Design</div>
                 </div>    
             </div>
             <div class="grid">
                 <img src="images/2.jpg" >
                 <div class="text">
-                    <div class="name">
                         The Police
-                    </div> 
-                    <div class="description">
-                        Illustration,Icons
-                    </div>
+                    <div class="description">Illustration,Icons</div>
                 </div>
             </div>
             <div class="grid">
                 <img src="images/3.jpg" >
                 <div class="text">
-                    <div class="name">
                         The Glasses
-                    </div> 
-                    <div class="description">
-                        Typography,Illustration
-                    </div>
+                    <div class="description">Typography,Illustration</div>
                 </div>
             </div>    
         </ul>
@@ -51,37 +39,31 @@
             <div class="grid">
                 <img src="images/4.jpg" >
                 <div class="text">
-                    <div class="name">
                         The Mustache
-                    </div> 
-                    <div class="description">
-                        Photoshop,Icons
-                    </div>
+                    <div class="description">Photoshop,Icons</div>
                 </div>                
             </div>
             <div class="grid">
                 <img src="images/5.jpg" >
                 <div class="text">
-                    <div class="name">
-                        The Leaft
-                    </div> 
-                    <div class="description">
-                        Icons,Print Design
-                    </div>
+                        The Leaf
+                    <div class="description">Icons,Print Design</div>
                 </div>                
             </div>
             <div class="grid">
                 <img src="images/6.jpg" >
                 <div class="text">
-                    <div class="name">
                         The Shield
-                    </div> 
-                    <div class="description">
-                        Illustration,Icons
-                    </div>
+                    <div class="description">Illustration,Icons</div>
                 </div>
             </div>    
         </ul>
+        <a href="flex-index.md">
+            <button>do it with Flex</button>
+        </a>
+        <a>
+            <button>do it with Grid</button>
+        </a>
 
     </body>
         
