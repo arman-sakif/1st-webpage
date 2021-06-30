@@ -57,7 +57,7 @@
                 </div>
             </div>    
         </ul>
-        <a href="flex-index.md">
+        <a href="https://arman-sakif.github.io/doing-1st-webpage-using-flex/">
             <button>do it with Flex</button>
         </a>
         <a>
