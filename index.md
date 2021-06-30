@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
     <head>
         <link rel="stylesheet" type="text/css" href = "css/style.css">
@@ -64,7 +63,6 @@
         <a>
             <button>do it with Grid</button>
         </a>
-        <h1> testing something </h1>
 
     </body>
         
