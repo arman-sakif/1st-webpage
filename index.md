@@ -57,7 +57,7 @@
                 </div>
             </div>    
         </ul>
-        <a href="https://arman-sakif.github.io/doing-1st-webpage-using-flex/">
+        <a href="https://arman-sakif.github.io/doing-1st-webpage-using-flex/" target="_blank">
             <button>do it with Flex</button>
         </a>
         <a href="https://arman-sakif.github.io/1st-webpage-using-Grid/">
